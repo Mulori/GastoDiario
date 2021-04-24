@@ -6,3 +6,8 @@ GastoDiario é um app desenvolvido para a plataforma android onde você poderá 
 TELA DE LOGIN
 
 ![alt text](https://i.postimg.cc/sg28zBgQ/Tela-Login-App.png)
+
+TELA DE CADASTRO
+
+![alt text](https://i.postimg.cc/QxkGMv72/Tela-Registro-APP.png)
+
