@@ -29,9 +29,7 @@ namespace GastoDiario
 
         ImageView imageView;
 
-        Button btnEntrar;
-
-        
+        Button btnEntrar;        
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
