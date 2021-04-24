@@ -8,7 +8,6 @@ C:\Users\Murilo\source\repos\GastoDiario\bin\Debug\com.companyname.gastodiario-S
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\build.props
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\adb.props
-C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\GastoDiario.csprojAssemblyReference.cache
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\res.flag
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\lp\38\jl\files.cache
@@ -55,6 +54,8 @@ C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\res\mipmap-xxhdpi\ic_laun
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\res\mipmap-xxxhdpi\ic_launcher.png
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\res\mipmap-xxxhdpi\ic_launcher_foreground.png
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\res\layout\register_activity.xml
+C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\res\drawable\logo.png
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\uploadflags.txt
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\resolvedassemblies.hash
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\android\assets\GastoDiario.dll
@@ -205,6 +206,7 @@ C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\android\src\androidx\tran
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\android\src\com\google\android\material\R.java
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\android\src\crc640449b8381a29da6c\MainActivity.java
+C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\android\src\crc640449b8381a29da6c\RegisterActivity.java
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
@@ -307,6 +309,4 @@ C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\stamp\_ConvertResourcesCa
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\res\drawable\logo.png
-C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\res\layout\registeractivity.xml
-C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\android\src\crc640449b8381a29da6c\RegisterActivity.java
+C:\Users\Murilo\source\repos\GastoDiario\obj\Debug\110\GastoDiario.csprojAssemblyReference.cache

@@ -8,7 +8,7 @@ using AndroidX.AppCompat.App;
 
 namespace GastoDiario
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
+    [Activity(Label = "Gasto Diario - Login", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
 
@@ -20,10 +20,10 @@ namespace GastoDiario
         TextView btnRegistrar;
         Button btnEntrar;
 
-        protected override void OnCreate(Bundle savedInstanceState)
+        protected override void OnCreate(Bundle bundle)
         {
-            base.OnCreate(savedInstanceState);
-            Xamarin.Essentials.Platform.Init(this, savedInstanceState);
+            base.OnCreate(bundle);
+            Xamarin.Essentials.Platform.Init(this, bundle);
             SetContentView(Resource.Layout.activity_main);
 
             img = FindViewById<ImageView>(Resource.Id.imageViewLogo);

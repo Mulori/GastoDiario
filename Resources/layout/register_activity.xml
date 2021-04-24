@@ -4,12 +4,11 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:background="#F2B90F"
-    android:padding="50dp">
+    android:padding="35dp">
 
 
      <TextView
-        android:id="@+id/txtEmail"
-        android:text="REGISTRAR-SE"
+        android:id="@+id/lbRegistrar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textColor="#A63737" 
@@ -18,8 +17,7 @@
 
 
     <TextView
-        android:id="@+id/txtSenha"
-        android:text="Nome"
+        android:id="@+id/lbNome"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textStyle="bold"
@@ -27,7 +25,7 @@
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
      <EditText
-        android:id="@+id/edtEmail"
+        android:id="@+id/txtNome"
         android:layout_width="match_parent"
         android:inputType="textAutoComplete"
         android:layout_height="wrap_content"
@@ -35,8 +33,7 @@
     </EditText>   
 
     <TextView
-        android:id="@+id/txtSenha"
-        android:text="Email"
+        android:id="@+id/lbEmail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textStyle="bold"
@@ -44,7 +41,7 @@
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText
-        android:id="@+id/edtEmail"
+        android:id="@+id/txtEmail"
         android:layout_width="match_parent"
         android:inputType="textEmailAddress"
         android:layout_height="wrap_content"
@@ -52,8 +49,7 @@
     </EditText>
 
     <TextView
-        android:id="@+id/txtSenha"
-        android:text="Insira uma senha"
+        android:id="@+id/lbSenha"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textStyle="bold"
@@ -61,7 +57,7 @@
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText
-        android:id="@+id/edtEmail"
+        android:id="@+id/txtSenha"
         android:layout_width="match_parent"
         android:inputType="textPassword"
         android:layout_height="wrap_content"
@@ -69,8 +65,7 @@
     </EditText>
 
     <TextView
-        android:id="@+id/txtSenha"
-        android:text="Reinsira sua senha"
+        android:id="@+id/lbRSenha"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textStyle="bold"
@@ -78,11 +73,32 @@
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText
-        android:id="@+id/edtEmail"
+        android:id="@+id/txtRSenha"
         android:layout_width="match_parent"
         android:inputType="textPassword"
         android:layout_height="wrap_content"
         android:ems="10" >
     </EditText>
+
+    <TextView
+        android:id="@+id/lbFoto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="#A63737"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="97.5dp"
+        android:id="@+id/imageView1" />
+
+    <Button
+        android:id="@+id/btnEntrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Login"
+        android:background="#A63737"/>
 
 </LinearLayout>

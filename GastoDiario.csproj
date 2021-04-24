@@ -98,7 +98,7 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher_round.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\layout\RegisterActivity.xml">
+    <AndroidResource Include="Resources\layout\register_activity.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
