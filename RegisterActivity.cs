@@ -15,7 +15,7 @@ namespace GastoDiario
         {
             base.OnCreate(savedInstanceState);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
-            SetContentView(Resource.Layout.);
+          // SetContentView(Resource.Layout.);
 
         }
 

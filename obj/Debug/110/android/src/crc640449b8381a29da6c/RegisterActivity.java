@@ -2,7 +2,7 @@ package crc640449b8381a29da6c;
 
 
 public class RegisterActivity
-	extends android.app.Activity
+	extends androidx.appcompat.app.AppCompatActivity
 	implements
 		mono.android.IGCUserPeer
 {
@@ -22,6 +22,14 @@ public class RegisterActivity
 		super ();
 		if (getClass () == RegisterActivity.class)
 			mono.android.TypeManager.Activate ("GastoDiario.RegisterActivity, GastoDiario", "", this, new java.lang.Object[] {  });
+	}
+
+
+	public RegisterActivity (int p0)
+	{
+		super (p0);
+		if (getClass () == RegisterActivity.class)
+			mono.android.TypeManager.Activate ("GastoDiario.RegisterActivity, GastoDiario", "System.Int32, mscorlib", this, new java.lang.Object[] { p0 });
 	}
 
 
