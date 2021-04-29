@@ -1,7 +1,5 @@
 # GastoDiario
 
-TELA DE LOGIN
-
 ![alt text](https://i.postimg.cc/wx4RXJb9/logo.png)
 
 
